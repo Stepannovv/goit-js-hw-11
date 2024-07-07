@@ -4,9 +4,14 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+<<<<<<< Updated upstream
     "dev": "vite",
     "build": "vite build --base=/goit-js-hw-11/"
 
+=======
+.    "dev": "vite",
+    "build": "vite build --base=/goit-js-hw-11/"
+>>>>>>> Stashed changes
 
     "preview": "vite preview"
   },
